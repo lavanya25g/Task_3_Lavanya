@@ -1,2 +1,2 @@
-# decodelabs_project_3-sql_analysis
+# decodelabs_project_3_sql_analysis
 SQL Data Analysis Project — DecodeLabs
